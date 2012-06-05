@@ -1,0 +1,8 @@
+inoremap jk <esc>
+
+let mapleader = ","
+
+" Fast saving
+nmap <leader>w :w!<cr>
+
+nmap ; :

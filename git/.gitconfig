@@ -1,0 +1,17 @@
+[user]
+    email = dan@dskang.com
+    name = Dan Kang
+[core]
+    editor = vim -f
+[github]
+    token = ed50c9d3c1c77df955faec10f2e39051
+[alias]
+    co = checkout
+    ci = commit
+    st = status
+    br = branch
+    hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+    type = cat-file -t
+    dump = cat-file -p
+[color]
+    ui = true
