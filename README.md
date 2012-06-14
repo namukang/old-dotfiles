@@ -4,7 +4,7 @@
 
 1. Install [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 
-## Git
+### Git
 
 1. Install git
 2. Move git/\* to $HOME
