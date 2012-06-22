@@ -23,3 +23,7 @@
 ### Ruby
 
 1. Move rubygems/\* to $HOME
+
+### Other
+
+1. [autojump](https://github.com/joelthelion/autojump)
