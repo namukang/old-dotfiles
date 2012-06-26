@@ -2,7 +2,7 @@
   email = dan@dskang.com
   name = Dan Kang
 [core]
-  editor = vim -f
+  editor = mvim -f
   excludesfile = ~/.gitignore_global
 [github]
   token = ed50c9d3c1c77df955faec10f2e39051
