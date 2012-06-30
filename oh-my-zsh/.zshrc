@@ -5,4 +5,4 @@ ZSH_THEME="afowler"
 plugins=(git autojump brew pip)
 
 # Aliases
-alias vim="mvim"
+alias vim="open -a MacVim.app"
