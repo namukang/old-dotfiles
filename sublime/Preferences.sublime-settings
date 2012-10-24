@@ -1,0 +1,11 @@
+// Settings in here override those in "Default/Preferences.sublime-settings", and
+// are overridden in turn by file type specific settings.
+{
+    "draw_white_space": "all",
+    "highlight_line": true,
+    "rulers": [
+        79
+    ],
+    "theme": "Soda Dark.sublime-theme",
+    "translate_tabs_to_spaces": true
+}
