@@ -14,6 +14,10 @@
 1. Install [janus](https://github.com/carlhuda/janus)
 2. Move janus/\* to $HOME
 
+OR
+
+1. Move vim/.vimrc to $HOME
+
 ### Python
 
 1. Install [pip](http://www.pip-installer.org/en/latest/index.html),
