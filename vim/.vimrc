@@ -40,6 +40,10 @@ inoremap jk <esc>
 " Map ; to :
 nmap ; :
 
+" Navigate using displayed lines instead of physical lines
+nnoremap j gj
+nnoremap k gk
+
 " Map <C-L> (redraw screen) to also turn off search highlighting until the
 " next search
 nnoremap <C-L> :nohl<CR><C-L>
